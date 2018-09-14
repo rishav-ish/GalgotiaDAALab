@@ -3,6 +3,9 @@
    either by generating random number when user provide array size
    or taking number by user by dynamically allocating array 
    author :- Rishav Kumar
+   
+   note:- This code is written on linux system with linux os consideration...
+   to compile this program enter gcc QuickSort.c -o quick  but first be in the folder path
 */
 
 #include<stdio.h>
