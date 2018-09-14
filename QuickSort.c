@@ -1,3 +1,10 @@
+/*
+   Program doing comparison between quick sort and insertion sort 
+   either by generating random number when user provide array size
+   or taking number by user by dynamically allocating array 
+   author :- Rishav Kumar
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
